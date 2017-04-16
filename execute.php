@@ -32,7 +32,7 @@ $response = "";
 
 switch($text){
   case "/start":
-      $response = "Ciao e benvenuto nel primo bot creato interamente per elogiare...."
+      $response = "Ciao e benvenuto nel primo bot creato interamente per elogiare....";
       break;
 }
 
