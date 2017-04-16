@@ -30,7 +30,7 @@ header("Content-Type: application/json");
 
 $response = "";
 
-switch($message){
+switch($text){
   case "/start":
       $response = "Ciao e benvenuto nel primo bot creato interamente per elogiare...."
       break;
